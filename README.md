@@ -2,7 +2,7 @@
 A CLI interface for the flash torrent eco-system. Designed to streamline searching, torrenting, and watching videos.
 
 ## Example
-![image](https://github.com/bcopp/flash-torrent-cli/example.png)
+![image](https://raw.githubusercontent.com/bcopp/flash-torrent-cli/master/example.png)
 
 ## Quick Start
 - Install Go & Go Dependencies
